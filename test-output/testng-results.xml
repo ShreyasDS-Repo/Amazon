@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="28417" started-at="2021-05-02T12:02:04Z" finished-at="2021-05-02T12:02:32Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="28417" started-at="2021-05-02T12:02:04Z" finished-at="2021-05-02T12:02:32Z">
+      <class name="ConCord">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:ConCord@56f4468b]" name="setUp" is-config="true" duration-ms="8587" started-at="2021-05-02T17:32:04Z" finished-at="2021-05-02T17:32:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="Test()[pri:0, instance:ConCord@56f4468b]" name="Test" duration-ms="18802" started-at="2021-05-02T17:32:12Z" finished-at="2021-05-02T17:32:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:ConCord@56f4468b]" name="tearDown" is-config="true" duration-ms="991" started-at="2021-05-02T17:32:31Z" finished-at="2021-05-02T17:32:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- ConCord -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
